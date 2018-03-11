@@ -6,3 +6,4 @@ salt
 pepper
 paprika
 cilantro
+more paprika
